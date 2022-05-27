@@ -1,4 +1,4 @@
-# Cognitive Search Static Web Apps sample
+# Cognitive Search Static Web Apps sample repo
 
 ![screenshot1](https://raw.githubusercontent.com/scale-tone/cognitive-search-static-web-apps-sample-ui/master/public/screenshot1.png)
 
